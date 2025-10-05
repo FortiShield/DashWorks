@@ -23,13 +23,6 @@
             <br />
             <sub><b>FortiShield</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/gitworkflows">
-            <img src="https://avatars.githubusercontent.com/u/118260833?v=4" width="80;" alt="gitworkflows"/>
-            <br />
-            <sub><b>Null</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
